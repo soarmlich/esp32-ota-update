@@ -1,5 +1,5 @@
 {
   "version": "1.1",
-  "device":"",
+  "device":"test1.0",
   "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/gas_analyser_sgx.ino.bin"
 }
