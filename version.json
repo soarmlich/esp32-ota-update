@@ -1,5 +1,5 @@
 {
   "version": "2.2",
-  "device":"SME-218",
+  "device":"SME-222",
   "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin"
 }
