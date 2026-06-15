@@ -1,5 +1,5 @@
 {
   "version": "2.2",
-  "device":"SME-216",
+  "device":"NEAA-103",
   "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin"
 }
