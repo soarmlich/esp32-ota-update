@@ -1,3 +1,3 @@
 { "version": "3.1", 
-  "device":"NEAA-76", 
+  "device":"NEAA-92", 
   "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
