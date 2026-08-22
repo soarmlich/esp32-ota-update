@@ -1,1 +1,1 @@
-{ "version": "3.6", "devices": [ "NEAA-90","NEAA-82","NEAA-102","NEAA-76","NEAA-97","NEAA-72","NEAA-07","NEAA-55","NEAA-06" ], "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
+{ "version": "3.6", "devices": [ "NEAA-06" ], "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
