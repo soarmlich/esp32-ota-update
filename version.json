@@ -1,1 +1,3 @@
-{ "version": "3.4", "device":"NEAA-98", "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
+{ "version": "3.4", 
+  "devices": [ "NEAA-85", "NEAA-68", "NEAA-30", "NEAA-01" ], 
+  "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
