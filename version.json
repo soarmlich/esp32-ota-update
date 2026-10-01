@@ -1,3 +1,3 @@
-{ "version": "2.5", 
-  "device":"SME-LB-007", 
+{ "version": "3.6", 
+  "devices": [ "NEAA-79", "NEAA-", "NEAA-", "NEAA-" ], 
   "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
