@@ -1,4 +1,2 @@
-{ "version": "3.5", 
-  "devices": [ "NEAA-30", "NEAA-", "NEAA-", "NEAA-" ], 
-  "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
+{ "version": "2.3", "device":"SME-238-TRB", "firmware": "https://raw.githubusercontent.com/soarmlich/esp32-ota-update/main/firmware.ino.bin" }
 
